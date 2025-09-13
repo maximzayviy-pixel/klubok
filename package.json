@@ -1,0 +1,15 @@
+{
+  "name": "twilio-p2p-superapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "twilio": "^4.22.0",
+    "pg": "^8.12.0",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
